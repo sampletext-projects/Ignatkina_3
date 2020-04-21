@@ -1,0 +1,12 @@
+﻿transform(23)
+
+	append1	|  	n 	|  	res	|
+	1	|	23	|	0	|
+	13	|	2	|	0	|
+	132 	|	0	|	0	| <End of first while>
+	1321	|	0	|	0	| <append1 *= 10, append1 += 1>
+	132	|	0	|	1	|
+	13	|	0	|	12	|
+	1	|	0	|	123	|
+	0	|	0	|	1231	| <End of second while>
+	Завершение
